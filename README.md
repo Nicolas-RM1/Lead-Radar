@@ -95,54 +95,6 @@ A classificação planejada é:
 
 > ⚠️ A metodologia ainda está em desenvolvimento e poderá ser ajustada conforme a evolução da análise e dos critérios de negócio.
 
-## 📈 Próximas etapas
-
-- [x] Dashboard inicial
-- [x] Filtros interativos
-- [x] Análise geográfica
-- [x] Informações detalhadas dos estabelecimentos
-- [x] Dark Mode
-- [x] Light Mode
-- [ ] Refinar Lead Score
-- [ ] Classificação de oportunidades
-- [ ] Ranking dos principais leads
-- [ ] Criar página de análise de leads
-- [ ] Criar página de análise de mercado
-- [ ] Análise de oportunidades por cidade
-- [ ] Análise de oportunidades por categoria
-- [ ] Melhorias de UX/UI
-- [ ] Expansão dos indicadores
-- [ ] Documentar tratamento e modelagem dos dados
-
-## 📋 Página de análise de leads — planejada
-
-A proposta é criar uma página específica para priorização dos estabelecimentos, apresentando:
-
-**Lead Score → Classificação → Ranking → Detalhes da empresa**
-
-Exemplo:
-
-| Empresa | Cidade | Categoria | Rating | Reviews | Website | Telefone | Score |
-|---|---|---|---:|---:|---|---|---:|
-| Empresa A | Niterói | Restaurante | 4,8 | 320 | ❌ | ✅ | 80 |
-| Empresa B | São Gonçalo | Clínica | 4,7 | 210 | ❌ | ❌ | 100 |
-| Empresa C | Maricá | Academia | 4,5 | 150 | ✅ | ❌ | 70 |
-
-## 📊 Página de análise de mercado — planejada
-
-Possíveis indicadores:
-
-- Total de empresas
-- Empresas por cidade
-- Empresas por categoria
-- Rating médio
-- Total de avaliações
-- Empresas sem website
-- Empresas sem telefone
-- Distribuição geográfica
-- Categorias mais frequentes
-- Oportunidades por região
-
 ## 🧠 Conceito de negócio
 
 O Lead Radar foi pensado a partir de uma pergunta:
