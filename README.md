@@ -4,6 +4,11 @@
 
 O **Lead Radar** é um projeto de **Business Intelligence desenvolvido em Power BI** para análise geográfica de empresas e identificação de oportunidades de prospecção comercial.
 
+
+O Lead Radar foi pensado a partir de uma pergunta:
+
+> **Como transformar informações sobre empresas de uma determinada região em oportunidades de análise e prospecção?**
+
 A proposta é transformar dados de estabelecimentos, localização e informações comerciais em uma solução visual para **explorar mercados, comparar empresas e futuramente priorizar leads de acordo com critérios definidos**.
 
 > 📌 Este projeto ainda está em desenvolvimento. Novas análises, indicadores e funcionalidades serão adicionados durante sua evolução.
@@ -30,16 +35,16 @@ O objetivo é transformar dados em **informações úteis para análise e tomada
 
 A página principal permite explorar os estabelecimentos através de filtros e apresenta informações como:
 
-- ⭐ Rating
-- 💬 Total de avaliações
-- 📍 Endereço e localização
-- 📞 Telefone
-- 🌐 Website
-- 🏷️ Categoria
-- 🏙️ Cidade
-- 🕐 Horário de funcionamento
-- 🆔 Place ID
-- 📌 Status
+- Rating
+- Total de avaliações
+- Endereço e localização
+- Telefone
+- Website
+- Categoria
+- Cidade
+- Horário de funcionamento
+- Place ID
+- Status
 
 ### Filtros
 
@@ -94,30 +99,6 @@ A classificação planejada é:
 - 🔴 **0–49 — Baixa oportunidade**
 
 > ⚠️ A metodologia ainda está em desenvolvimento e poderá ser ajustada conforme a evolução da análise e dos critérios de negócio.
-
-## 🧠 Conceito de negócio
-
-O Lead Radar foi pensado a partir de uma pergunta:
-
-> **Como transformar informações sobre empresas de uma determinada região em oportunidades de análise e prospecção?**
-
-Fluxo do projeto:
-
-```text
-Dados de empresas
-       ↓
-Tratamento dos dados
-       ↓
-Modelagem
-       ↓
-Indicadores e métricas
-       ↓
-Análise geográfica
-       ↓
-Dashboard interativo
-       ↓
-Priorização de oportunidades
-```
 
 ## 🛠️ Tecnologias
 
